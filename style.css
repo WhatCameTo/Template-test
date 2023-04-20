@@ -1,0 +1,10 @@
+html{   
+    /* if a page is 100% viewport width this it cancels padding*/
+    box-sizing: border-box;
+}
+
+body{
+    /* vh is the viwport height of whole window */
+    margin: 0;
+    min-height: 100vh;
+}
